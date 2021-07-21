@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "In this exercise, I write a few practical tests for JavaScript functions using the Jest library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lameck1/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lameck1/testing-practice/issues"
+  },
+  "homepage": "https://github.com/Lameck1/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
